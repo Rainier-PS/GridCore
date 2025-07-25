@@ -2,7 +2,7 @@
 
 > GridCore is a minimalist reaction-based game system built on a 2×2 LED grid with 4 buttons. Modular. Expandable. Fun.
 
-![GridCore Logo](YOUR_IMAGE_LINK_HERE/logo.png)
+![GridCore Board](image%2FGridCore_Render_Front.png)
 
 ## What is GridCore?
 
@@ -10,30 +10,29 @@ GridCore is a lightweight, open-source mini game console using only 4 buttons an
 
 ## Images
 
+### Schematic
+![Schematic](image%2FSchematics.png)
+
+### PCB Layout
+![PCB Layout](image%2FPCB.png)
+
 ### PCB Front (Render)
 ![PCB Front Render](image%2FPCB_Render_Front.png)
 
 ### PCB Back (Render)
 ![PCB Back Render](image%2FPCB_Render_Back.png)
 
-### Schematic
-![Schematic](image%2FSchematic.png)
+### GridCore Board - Front
+![GridCore Board Front](image%2FGridCore_Render_Front.png)
 
-### PCB Layout
-![PCB Layout](image%2FPCB.png)
-
-### Real PCB - Front
-![Real PCB Front](image%2FGridCore_Render_Front.png)
-
-### Real PCB - Back
-![Real PCB Back](image%2FGridCore_Render_Back.png)
+### GridCore Board - Back
+![GridCore Board Back](image%2FGridCore_Render_Back.png)
 
 ## Features
 
 - Reaction-based game logic that gets harder with each level
 - Built-in splash screen animation
-- Compact 4-button control scheme
-- Fully Arduino-compatible (tested on Seeed XIAO RP2040)
+- MX keys 4-button control
 - Organized, human-readable code
 - Easily expandable architecture for additional games/tools
 
