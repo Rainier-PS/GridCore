@@ -77,5 +77,13 @@ Upload the `GridCore.ino` sketch to your board using Arduino IDE or PlatformIO.
 | LED 3    | GPIO6    | Upper Right   |
 | LED 4    | GPIO1    | Lower Right   |
 
+## Advanced Notes
+
+- **GND Test Pad**  
+  A dedicated exposed GND pad is included on the PCB for easy multimeter probing and diagnostics. Useful during debugging or for adding temporary modules or sensors.
+
+- **Dual Pin Headers for Xiao**  
+  The Xiao RP2040 footprint includes **double/duplicate pin holes**—one for standard mounting, and another inline set for breakout or jumper wiring. This allows GridCore to be used not only as a game system, but also as a **hackable Xiao devboard** for rapid prototyping.
+
 > **Note**  
 > This project has passed both ERC (Electrical Rule Check) and DRC (Design Rule Check) with no errors. All submission requirements for Pathfinder have been completed.
