@@ -11,22 +11,22 @@ GridCore is a lightweight, open-source mini game console using only 4 buttons an
 ## Images
 
 ### PCB Front (Render)
-![PCB Front Render](YOUR_IMAGE_LINK_HERE/PCB_Render_Front.png)
+![PCB Front Render](image%2FPCB_Render_Front.png)
 
 ### PCB Back (Render)
-![PCB Back Render](YOUR_IMAGE_LINK_HERE/PCB_Render_Back.png)
+![PCB Back Render](image%2FPCB_Render_Back.png)
 
 ### Schematic
-![Schematic](YOUR_IMAGE_LINK_HERE/Schematics.png)
+![Schematic](image%2FSchematic.png)
 
 ### PCB Layout
-![PCB Layout](YOUR_IMAGE_LINK_HERE/PCB.png)
+![PCB Layout](image%2FPCB.png)
 
 ### Real PCB - Front
-![Real PCB Front](YOUR_IMAGE_LINK_HERE/Real_PCB_Front.png)
+![Real PCB Front](image%2FGridCore_Render_Front.png)
 
 ### Real PCB - Back
-![Real PCB Back](YOUR_IMAGE_LINK_HERE/Real_PCB_Back.png)
+![Real PCB Back](image%2FGridCore_Render_Back.png)
 
 ## Features
 
